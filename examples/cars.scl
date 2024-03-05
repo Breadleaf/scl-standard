@@ -1,0 +1,26 @@
+# Define companies
+
+companies _ = "ford"
+companies _ = "toyota"
+
+# Define car names for each company
+
+ford _ = "focus"
+ford _ = "fiesta"
+
+toyota _ = "corolla"
+toyota _ = "camry"
+
+# Specify the year and miles for each car
+
+cars focus year = 2018
+cars focus miles = 25000
+
+cars fiesta year = 2013
+cars fiesta miles = 50000
+
+cars corolla year = 2010
+cars corolla miles = 100000
+
+cars camry year = 2024
+cars camry miles = 500

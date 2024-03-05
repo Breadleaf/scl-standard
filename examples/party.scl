@@ -1,0 +1,13 @@
+party host = "alice"
+party time start = 1500
+party time end = 1900
+
+party guests _ = "rob"
+rob _ = "chips"
+rob _ = "soda"
+
+party guests _ = "jane"
+jane _ = "ribs"
+
+party guests _ = "shane"
+shane _ = "salad"

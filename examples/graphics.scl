@@ -1,0 +1,11 @@
+text color foreground = "red"
+text color background = "black"
+
+# fonts organized by presidence
+# fall back if not found 
+text font _ = "Arial"
+text font _ = "Times New Roman"
+text font _ = "Courier New"
+text style = "bold"
+
+text size = 12

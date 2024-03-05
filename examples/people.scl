@@ -1,0 +1,4 @@
+people:john.age = 12
+people:john.color = "red"
+people:alice.age = 25
+people:alice.color = "blue"
